@@ -20,6 +20,6 @@
 
 ### Ensembling (DT|SVM|LinReg) + Bagging
 
-This notebook in process.
+This notebook in process. On the 'last' stage.
 
 ##### I will be glab for any suggestions.
