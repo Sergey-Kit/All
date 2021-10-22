@@ -18,7 +18,7 @@
 7)Take your RMSE = 0,30664 (It will be better with some bagging in next notebook)
 
 
-### Ensembling (DT|SVM|LinReg) + Bagging
+### Ensembling (LinReg|Random Forest|MeanOfFeatures) & DecisionTree with Bagging
 
 This notebook in process. On the 'last' stage.
 
