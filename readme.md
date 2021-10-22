@@ -1,4 +1,4 @@
-### LinearRegression model for determine house prices.
+# LinearRegression model for determine house prices.
 Repository with notebook for Kaggle competition House Prices - Advanced Regression Techniques (https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 1)Drop features with > 0.05% null elements
